@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "みにまむ（feat. わん子）",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-25T06:54:33.440154Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "みにまむ (feat. わん子)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_みにまむ_(feat._わん子)_MIMI.txt"
+    }
+  ]
+}
